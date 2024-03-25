@@ -1,4 +1,3 @@
-#Trabalho de Algorítimo, tema 08
 import os, time, math, msvcrt
 
 def main():
